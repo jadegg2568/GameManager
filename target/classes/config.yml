@@ -1,0 +1,26 @@
+# game settings
+name: "Arena-1"
+minimum: 2
+maximum: 2
+teamCount: 2
+playersPerTeam: 1
+isEnabled: false
+instantStart: true
+
+# scoreboard
+objectiveName: "§eDUELS"
+objectiveCredit: "§eplugintest"
+
+# default game settings
+canItemDrop: false
+canBlockBreak: true
+canBlockPlace: true
+canBlockExploded: false
+pvpEnabled: false
+fallDamage: false
+hungerEnabled: false
+gunsEnabled: true
+
+# time
+countdownTime: 60
+gameTime: 150

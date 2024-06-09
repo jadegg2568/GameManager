@@ -1,0 +1,7 @@
+name: GameManager
+version: '1.0.0'
+main: com.jadegg.gamemanager.main.Main
+commands:
+  gamemanager:
+    usage: /gamemanager help
+    description: GameManager command.
